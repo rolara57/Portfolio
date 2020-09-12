@@ -2,15 +2,22 @@
   margin: 0;
   padding: 0
 }
+#Bio{
+  background-color: rgb(65, 180, 225);
+}
 
 .footer {
-  position: fixed;
+  position: float;
   left: 0;
   bottom: 0;
   width: 100%;
   background-color: red;
   color: white;
   text-align: center;
+}
+
+.navbar-brand {
+color: red
 }
 
 
